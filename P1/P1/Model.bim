@@ -89,7 +89,7 @@
         "measures": [
           {
             "name": "a",
-            "expression": "1"
+            "expression": "11"
           },
           {
             "name": "b",
@@ -97,7 +97,11 @@
           },
           {
             "name": "c",
-            "expression": "3"
+            "expression": "3+1"
+          },
+          {
+            "name": "d",
+            "expression": "4"
           }
         ],
         "annotations": [
